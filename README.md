@@ -1,1 +1,1 @@
-# Descarga la version que quieras
+# Instala la version que quieras

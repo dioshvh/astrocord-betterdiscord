@@ -1,1 +1,1 @@
-# astrocord-betterdiscord
+# Descarga la version que quieras
